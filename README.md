@@ -57,7 +57,7 @@
 - 🕵🏻 <samp>Digital Marketer(March,2020 - Now)<br>
 - ☄️ <samp>Intern at many Firms(August,2020)<br>
 - ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)<br>
-- ☁ <samp>60 Days GoogleCloudReady Facilitator Program(Cloud Infrastructure,Cloud-native Application Development,and Big Data & Machine Learning Track)<br>
+- 👨‍💻 <samp>60 Days GoogleCloudReady Facilitator Program(Cloud Infrastructure,Cloud-native Application Development,and Big Data & Machine Learning Track)<br>
 </div>
 
 ##
