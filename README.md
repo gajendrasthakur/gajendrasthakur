@@ -55,7 +55,7 @@
 - 👷 <samp>Member of different Tech Community<br>
 - 👨🏾‍💻 <samp>Admin of Many Web-Admin Panels<br>
 - 🕵🏻 <samp>Digital Marketer(March,2020 - Now)<br>
-- 🐱‍💻 <samp>Cyber Security Intern(June,2021 - July,2021)<br>
+- 🐱‍💻 <samp>Gurugram Police Cyber Security Intern(June,2021 - July,2021)<br>
 - ☄️ <samp>Intern at many Firms(August,2020-June,2021)<br>
 - ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)<br>
 - 💡 <samp>60 Days GoogleCloudReady Facilitator Program(Cloud Infrastructure,Cloud-native Application Development,and Big Data & Machine Learning Track)<br>
