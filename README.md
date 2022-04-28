@@ -94,10 +94,7 @@
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
 
 
-##
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gajendra1405&count_private=true&show_icons=true&theme=radical&&include_all_commits=true)](https://github.com/gajendra1405/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajendra1405&hide=html,css,javascript)](https://github.com/gajendra1405/github-readme-stats-1)
 
-##
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/gajendra1405/count.svg" />
